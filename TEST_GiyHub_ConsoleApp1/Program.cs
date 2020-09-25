@@ -11,6 +11,7 @@ namespace TEST_GiyHub_ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Github!");
+            Console.WriteLine("Github2!");
         }
     }
 }
